@@ -1,0 +1,50 @@
+[
+    {
+        "commit_id": "20241226181907",
+        "timestamp": "2024-12-26T18:19:07.470656",
+        "message": "test commit",
+        "author": "Igor Cielniak"
+    },
+    {
+        "commit_id": "20241226181937",
+        "timestamp": "2024-12-26T18:19:37.036334",
+        "message": "No message",
+        "author": "Unknown"
+    },
+    {
+        "commit_id": "20241226182000",
+        "timestamp": "2024-12-26T18:20:00.914519",
+        "message": "No message",
+        "author": "Unknown"
+    },
+    {
+        "commit_id": "20241226190115",
+        "timestamp": "2024-12-26T19:01:15.450958",
+        "message": "test commit",
+        "author": "Igor Cielniak"
+    },
+    {
+        "commit_id": "20241226191004",
+        "timestamp": "2024-12-26T19:10:04.012708",
+        "message": "f",
+        "author": "Igor Cielniak"
+    },
+    {
+        "commit_id": "20241227120343",
+        "timestamp": "2024-12-27T12:03:43.098515",
+        "message": "test commit",
+        "author": "Igor Cielniak"
+    },
+    {
+        "commit_id": "20241227144126",
+        "timestamp": "2024-12-27T14:41:26.419672",
+        "message": "test commit",
+        "author": "Igor Cielniak"
+    },
+    {
+        "commit_id": "20241227154139",
+        "timestamp": "2024-12-27T15:41:39.459755",
+        "message": "added config editing",
+        "author": "Igor Cielniak"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "version_name": "1.2",
+    "created_at": "2024-12-27T17:34:30.478816",
+    "author": "Igor Cielniak",
+    "description": "version 1.2 of icvcs",
+    "files": [
+        "icvcs.py"
+    ]
+}
