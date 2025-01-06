@@ -1,5 +1,5 @@
 {
-    "default_author": Nome,
+    "default_author": "None",
     "default_version_description": "test version",
     "default_commit_message": "test commit"
 }
